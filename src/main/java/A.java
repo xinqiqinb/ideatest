@@ -4,5 +4,6 @@ public class A {
         System.out.println("ceshi123");
         System.out.println("测试分支");
         System.out.println("cehgng");
+        System.out.println("123456");
     }
 }
