@@ -3,5 +3,6 @@ public class B {
         System.out.println("qwer");
         System.out.println("qwer");
         System.out.println("qwer");
+        System.out.println("qwer");
     }
 }
