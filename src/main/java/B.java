@@ -5,5 +5,7 @@ public class B {
         System.out.println("qwer");
         System.out.println("qwer");
         System.out.println("6.25-23:44");
+        System.out.println("6.25-23:44");
+
     }
 }
